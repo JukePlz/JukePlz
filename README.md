@@ -1,8 +1,8 @@
 🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔🦔
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JukePlz&theme=onedark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JukePlz&theme=shadow_red)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=JukePlz&theme=onedark&column=4&rank=-?)
+![trophy](https://github-profile-trophy.vercel.app/?username=JukePlz&theme=dark_lover&column=4&row=2&rank=-?)
 
 <div>
   <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
